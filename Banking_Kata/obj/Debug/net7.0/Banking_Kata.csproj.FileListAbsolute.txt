@@ -1,0 +1,12 @@
+/Users/stome/RiderProjects/Banking_Kata/Banking_Kata/bin/Debug/net7.0/Banking_Kata.deps.json
+/Users/stome/RiderProjects/Banking_Kata/Banking_Kata/bin/Debug/net7.0/Banking_Kata.dll
+/Users/stome/RiderProjects/Banking_Kata/Banking_Kata/bin/Debug/net7.0/Banking_Kata.pdb
+/Users/stome/RiderProjects/Banking_Kata/Banking_Kata/obj/Debug/net7.0/Banking_Kata.csproj.AssemblyReference.cache
+/Users/stome/RiderProjects/Banking_Kata/Banking_Kata/obj/Debug/net7.0/Banking_Kata.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stome/RiderProjects/Banking_Kata/Banking_Kata/obj/Debug/net7.0/Banking_Kata.AssemblyInfoInputs.cache
+/Users/stome/RiderProjects/Banking_Kata/Banking_Kata/obj/Debug/net7.0/Banking_Kata.AssemblyInfo.cs
+/Users/stome/RiderProjects/Banking_Kata/Banking_Kata/obj/Debug/net7.0/Banking_Kata.csproj.CoreCompileInputs.cache
+/Users/stome/RiderProjects/Banking_Kata/Banking_Kata/obj/Debug/net7.0/Banking_Kata.dll
+/Users/stome/RiderProjects/Banking_Kata/Banking_Kata/obj/Debug/net7.0/refint/Banking_Kata.dll
+/Users/stome/RiderProjects/Banking_Kata/Banking_Kata/obj/Debug/net7.0/Banking_Kata.pdb
+/Users/stome/RiderProjects/Banking_Kata/Banking_Kata/obj/Debug/net7.0/ref/Banking_Kata.dll

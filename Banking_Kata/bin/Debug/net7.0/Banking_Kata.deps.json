@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Banking_Kata/1.0.0": {
+        "runtime": {
+          "Banking_Kata.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Banking_Kata/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

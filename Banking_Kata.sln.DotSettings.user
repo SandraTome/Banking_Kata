@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=659b0446_002Dbeaf_002D4f68_002Db944_002D5b196c02dde6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Deposit_BalanceIncreasesWhenMakingADeposit #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::8ACD2469-32C3-4366-93BC-9D7F980C418C::net7.0::Banking_Kata_Test.AccountTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6f1e8c66_002D3666_002D4dd6_002D9ce3_002Db455e8918648/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Deposit_BalanceIncreasesWhenMakingADeposit" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::8ACD2469-32C3-4366-93BC-9D7F980C418C::net7.0::Banking_Kata_Test.AccountTest.Deposit_BalanceIncreasesWhenMakingADeposit&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::8ACD2469-32C3-4366-93BC-9D7F980C418C::net7.0::Banking_Kata_Test.AccountTest.Withdraw_BalanceDecreasesWhenMakingAWithdrawal&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::8ACD2469-32C3-4366-93BC-9D7F980C418C::net7.0::Banking_Kata_Test.AccountTest.printStatement_PrintsStatement&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::8ACD2469-32C3-4366-93BC-9D7F980C418C::net7.0::Banking_Kata_Test.AccountTest.Deposit_ThrowsExceptionWhenAmountIsNegative&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::8ACD2469-32C3-4366-93BC-9D7F980C418C::net7.0::Banking_Kata_Test.AccountTest.Withdraw_ThrowsExceptionWhenBalanceIsLessThanAmountToWithdraw&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::8ACD2469-32C3-4366-93BC-9D7F980C418C::net7.0::Banking_Kata_Test.AccountTest.Withdraw_ThrowsExceptionWhenBalanceIsLessThanAmountToWithdraw_WithCustomMessage&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
